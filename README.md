@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nicolás Báez <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Nicolás Báez <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="30" alt="Waving Hand" />
 
 <img src="/assets/banner.jpg" width="600" alt="Banner" />
 
