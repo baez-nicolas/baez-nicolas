@@ -31,7 +31,7 @@ I build complete web applications: **Frontend with Angular/TypeScript and JavaSc
 **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap  
 **Backend:** Java, Spring Boot, C# .NET, ASP.NET Web API, REST APIs  
 **Databases:** MySQL, SQL Server, MongoDB  
-**Tools:** Git, GitHub, Docker, Postman, Swagger  
+**Tools & Deployment:** Git, GitHub, Docker, Postman, Swagger, Vercel, Render, Railway
 
 ---
 
@@ -72,3 +72,7 @@ I build complete web applications: **Frontend with Angular/TypeScript and JavaSc
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
