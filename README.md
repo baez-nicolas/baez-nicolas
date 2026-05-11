@@ -4,11 +4,13 @@
 
 <img src="/assets/banner.jpg" width="600" alt="Banner" />
 
-## Junior Full Stack Developer
+## Junior Full-Stack Developer
+
+### 🌐 [Check out my Portfolio → baez-nicolas.github.io/developer-portfolio](https://baez-nicolas.github.io/developer-portfolio/)
 
 </div>
 
-I’m a **Junior Full Stack Developer**, recently graduated from the **University Technical Degree in Programming (UTN)**.  
+I'm a **Junior Full-Stack Developer**, recently graduated from the **University Technical Degree in Programming (UTN)**.  
 I build complete web applications: **Frontend with Angular/TypeScript and JavaScript**, and **Backend with Java (Spring Boot) and C# .NET**, creating **REST APIs** and integrating them with databases.
 
 - 📍 Córdoba, Argentina  
@@ -26,6 +28,25 @@ I build complete web applications: **Frontend with Angular/TypeScript and JavaSc
 ✅ Building modern and scalable solutions (**Front + Back**)  
 ✅ Teamwork 🤝 and **Scrum** experience (university projects)  
 ✅ Problem-solving and continuous learning 📚  
+
+---
+
+## 🚀 Featured Projects
+
+> 💡 These are just a few highlights — visit my **[Portfolio](https://baez-nicolas.github.io/developer-portfolio/)** to explore all 12+ projects!
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **CineBook** | Full-stack app for real-time cinema seat booking | Java · Spring Boot · Angular · JWT | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/baez-nicolas/cinebook-app) |
+| **SyncMarket** | E-commerce platform with store, orders & wallet management | Java · Spring Boot · Angular · JWT | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/baez-nicolas/SyncMarket) |
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20View%20All%20Projects-Portfolio-6C63FF?style=for-the-badge)](https://baez-nicolas.github.io/developer-portfolio/)
+
+</div>
+
+---
 
 ## 🧑‍💻 Tech Stack
 **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap  
@@ -46,6 +67,7 @@ I build complete web applications: **Frontend with Angular/TypeScript and JavaSc
 [![Gmail](https://img.shields.io/badge/Gmail-nicolasbaez1201%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasbaez1201@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-baez--nicolas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baez-nicolas/)  
 [![GitHub](https://img.shields.io/badge/GitHub-baez--nicolas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baez-nicolas)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-baez--nicolas.github.io-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://baez-nicolas.github.io/developer-portfolio/)
 
 ---
 
